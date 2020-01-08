@@ -1,0 +1,19 @@
+{
+   "name": "html-email-developer",
+   "version": "1.0.0",
+   "description": "HTML Email Developer career bundle",
+   "main": "index.js",
+   "scripts": {
+      "compile-sass": "node-sass sass/styles.scss css/styles.css -w"
+   },
+   "keywords": [
+      "HTML",
+      "Email",
+      "Marketing"
+   ],
+   "author": "Nicksonder Examar",
+   "license": "ISC",
+   "devDependencies": {
+      "node-sass": "^4.13.0"
+   }
+}
