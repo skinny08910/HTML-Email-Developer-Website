@@ -1,6 +1,7 @@
 {
    "name": "html-email-developer",
    "version": "1.0.0",
+   "git": "https://github.com/skinny08910/HTML-Email-Developer-Website.git",
    "description": "HTML Email Developer career bundle",
    "main": "index.js",
    "scripts": {
